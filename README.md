@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Léo 👾  
+**Full-stack Web Dev** | **Data engineer** | *Artist*  
+Lyon, France
 
-<!--
-**LeoGouchon/LeoGouchon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 React / Angular    
+- ⚙️ Typescript / NodeJs / Java / SpringBoot  
+- 🛢️ MySQL / PostgreSQL / MongoDB
+- 🎨 Figma / Photoshop / Blender  
+
+> Currently exploring: the famous combo Angular / Java SpringBoot through Rest API 
+
+---
+
+### 🎮 Projects
+
+Here's my recent project that I've done or are currently WIP 
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔸**SquashApp** | WebApp to help the referee during the match and to store match histories | Angular, SpringBoot, Rest API |
+| 🔹 **Portfolio** | First draft of my portfolio to display my projects (tech / artistic or also events)  | React, Emotion |
+
+> *Want also my profesionnal experience ? you should visit my portfolio
+
+---
+
+### 🧠 About Me
+
+- 🧪 Recently graduated from engineering school
+- 🏎️ Passionate by automotive sport 
+- 🎨 Using my passions to motivate my other passions
+- 🧠 Learning and completing projects during my free time  
+
+---
+
+### ⚔️ Contact & Links
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ton-lien](https://www.linkedin.com/in/leo-gouchon/))  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-?style=flat&logo=firefox&logoColor=white)](https://www.leogouchon.com)
+
+---
+
+### ⚡ Fun Fact
+
+You might find easter eggs and terminal logs hidden in my portfolio.  
+Because if the web’s not fun, what’s the point?
