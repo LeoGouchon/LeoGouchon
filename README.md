@@ -41,5 +41,5 @@ Here's my recent project that I've done or are currently WIP
 ### ⚔️ Contact & Links
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ton-lien](https://www.linkedin.com/in/leo-gouchon/))  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-?style=flat&logo=firefox&logoColor=white)](https://www.leogouchon.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-%3Fstyle%3Dflat%26logo%3Dfirefox%26logoColor%3Dwhite?color=grey)](https://www.leogouchon.com)
 
