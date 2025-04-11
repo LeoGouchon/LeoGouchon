@@ -1,4 +1,4 @@
-# Hi, I'm Léo 👾  
+# Hi, I'm Léo 🏎️
 **Full-stack Web Dev** | **Data engineer** | *Artist*  
 Lyon, France
 
@@ -7,11 +7,12 @@ Lyon, France
 ### 🧠 Tech Stack
 
 - 🌐 React / Angular    
-- ⚙️ Typescript / NodeJs / Java / SpringBoot  
+- ⚙️ Typescript / NodeJs / Java / SpringBoot
+- ☁️ AWS / Scala / Spark
 - 🛢️ MySQL / PostgreSQL / MongoDB
 - 🎨 Figma / Photoshop / Blender  
 
-> Currently exploring: the famous combo Angular / Java SpringBoot through Rest API 
+> Currently exploring: the famous combo Angular / Java SpringBoot  
 
 ---
 
@@ -42,9 +43,3 @@ Here's my recent project that I've done or are currently WIP
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ton-lien](https://www.linkedin.com/in/leo-gouchon/))  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-?style=flat&logo=firefox&logoColor=white)](https://www.leogouchon.com)
 
----
-
-### ⚡ Fun Fact
-
-You might find easter eggs and terminal logs hidden in my portfolio.  
-Because if the web’s not fun, what’s the point?
