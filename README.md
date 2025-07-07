@@ -22,7 +22,9 @@ Here's my recent project that I've done or are currently WIP
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔸**SquashApp** | WebApp to help the referee during the match and to store match histories | Angular, SpringBoot, Rest API |
+| 🔹**SquashApp** | WebApp to help the referee during the match and to store match histories | Angular, Primeng |
+| 🔹**KickerApp** | WebApp to save kicker companies matches | React, Emotion, Antd, Tanstack |
+| 🔶**hubscore** | RestAPI to store match results of several sports (kicker & squash for now)  | Spring boot, Rest API |
 | 🔹 **Portfolio** | First draft of my portfolio to display my projects (tech / artistic or also events)  | React, Emotion |
 
 > *Want also my profesionnal experience ? you should visit my portfolio
